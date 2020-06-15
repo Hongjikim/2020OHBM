@@ -2,10 +2,13 @@
 Video abstract and poster for 2020 OHBM virtual conference
 
 Video abstract link: coming soon!
+
 Poster file (pdf): coming soon!
 
 Title: Brain Decoding of Affective Meaning through Personal Stories
+
 Authors: Hong-Ji Kim, Choong-Wan Woo
+
 Institutions: Center for Neuroscience Imaging Research, Suwon, Gyeonggi-do, Center for Neuroscience Imaging
 Research, Institute for Basic Science, Suwon, Gyeonggi-do
 
