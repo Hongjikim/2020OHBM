@@ -1,19 +1,20 @@
 # 2020OHBM_poster
 Video abstract and poster for 2020 OHBM virtual conference
 
-Video abstract link: coming soon!
+* Video abstract link: coming soon!
 
-Poster file (pdf): coming soon!
+* Poster file (pdf): coming soon!
 
-Title: Brain Decoding of Affective Meaning through Personal Stories
+-- Poster information --
+* Title: Brain Decoding of Affective Meaning through Personal Stories
 
-Authors: Hong-Ji Kim, Choong-Wan Woo
+* Authors: Hong-Ji Kim, Choong-Wan Woo
 
-Institutions: Center for Neuroscience Imaging Research, Suwon, Gyeonggi-do, Center for Neuroscience Imaging
+* Institutions: Center for Neuroscience Imaging Research, Suwon, Gyeonggi-do, Center for Neuroscience Imaging
 Research, Institute for Basic Science, Suwon, Gyeonggi-do
 
 
-Short summary
+-- Short summary --
 
   Sensory and affective responses can be shaped by multiple ingredients such as sensory and conceptual
 information, social and affective values, past memories, relevance to the 'self', etc. All these ingredients
