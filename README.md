@@ -6,7 +6,7 @@ Video abstract and poster for 2020 OHBM virtual conference
 * Poster file (pdf): coming soon!
 
 -- Poster information --
-* Title: Brain Decoding of Affective Meaning through Personal Stories
+* Title: Getting Personal: Brain Decoding of Valence and Self-relevance of Personal Thoughts using Personal Stories (Old version: Brain Decoding of Affective Meaning through Personal Stories)
 
 * Authors: Hong-Ji Kim, Choong-Wan Woo
 
