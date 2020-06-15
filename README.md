@@ -15,7 +15,7 @@ Research, Institute for Basic Science, Suwon, Gyeonggi-do
 
 
 -- Short summary --
-
+```
   Sensory and affective responses can be shaped by multiple ingredients such as sensory and conceptual
 information, social and affective values, past memories, relevance to the 'self', etc. All these ingredients
 construct affective meaning, which could dramatically change the sensory and affective responses even to the
@@ -51,6 +51,6 @@ controlling for the other dimension. The predictive performances with the leave-
 were r (correlation between actual and predicted ratings) = 0.32 for the self-relevance marker and r
 = 0.205 for valence ratings. The self-relevance marker was able to discriminate whether the story was selfgenerated
 or not with accuracy of 94%. 
-
+```
 
 
