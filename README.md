@@ -36,7 +36,8 @@ analysis, we included multiple regressors, including the word viewing, the numbe
 self-relevance and valence in order to identify brain regions that preferentially track each variable controlling
 for others. In addition, we used the predictive modeling approach to develop distinct pattern-based
 neuromarkers of self-relevance and valence ratings. To effectively disentangle fMRI patterns for self-relevance
-versus valence, we created orthogonalized training data by merging TR-level images and included the other dimension score as a covariate in the principal component regression analysis.
+versus valence, we created orthogonalized training data by merging TR-level images and included the other dimension 
+score as a covariate in the principal component regression analysis.
   Story reading compared to the baseline activated multiple brain regions within the default mode
 network (DMN), including the medial prefrontal cortex, and also subcortical regions, including the
 hippocampus and amygdala, suggesting that the semantic processing is dominant during story reading. The
@@ -48,8 +49,8 @@ both self and valence activate the DMN regions), suggesting that previous findin
 to be masked by semantic processing, which is also recruiting the DMN.
   We developed pattern-based markers for each of self-relevance and valence ratings
 controlling for the other dimension. The predictive performances with the leave-one-participant-out crossvalidation
-were r (correlation between actual and predicted ratings) = 0.32 for the self-relevance marker and r
-= 0.205 for valence ratings. The self-relevance marker was able to discriminate whether the story was selfgenerated
+were r (correlation between actual and predicted ratings) = 0.32 for the self-relevance marker and 
+r = 0.205 for valence ratings. The self-relevance marker was able to discriminate whether the story was selfgenerated
 or not with accuracy of 94%. 
 ```
 
