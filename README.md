@@ -1,9 +1,9 @@
 # 2020OHBM_poster
 Video abstract and poster for 2020 OHBM virtual conference
 
-* Video abstract link: coming soon!
+* Video abstract link: https://youtu.be/Kvz-NgAaEkA
 
-* Poster file (pdf): coming soon!
+* Poster file (pdf): https://www.dropbox.com/s/w6v2swox3305611/2020ohbm_poster_PiCo_final.pdf?dl=0
 
 -- Poster information --
 * Title: Getting Personal: Brain Decoding of Valence and Self-relevance of Personal Thoughts using Personal Stories (Old version: Brain Decoding of Affective Meaning through Personal Stories)
