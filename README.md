@@ -5,6 +5,8 @@ Video abstract and poster for 2020 OHBM virtual conference
 
 * Poster file (pdf): https://www.dropbox.com/s/w6v2swox3305611/2020ohbm_poster_PiCo_final.pdf?dl=0
 
+* If you have any question, please contact me: hongji.eo.kim@gmail.com / https://twitter.com/hongjikim
+
 -- Poster information --
 * Title: Getting Personal: Brain Decoding of Valence and Self-relevance of Personal Thoughts using Personal Stories (Old version: Brain Decoding of Affective Meaning through Personal Stories)
 
